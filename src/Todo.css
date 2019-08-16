@@ -1,0 +1,33 @@
+.Todo {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+.TodoText {
+  display: flex;
+  align-items: center;
+}
+
+.Button {
+  margin-right: .6rem;
+}
+
+.Button:last-child {
+  margin-right: 0;
+}
+
+.TodoActions {
+  flex: 0 0 20%;
+  margin-left: .6rem;
+}
+
+.TodoActions > .Button {
+  width: 100%;
+  margin-bottom: .2rem;
+}
+
+.TodoActions > .Button:last-child {
+  margin-bottom: 0;
+}

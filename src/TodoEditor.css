@@ -1,0 +1,9 @@
+.TodoEditor {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.Input {
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+.Button {
+  background: none;
+  border: 1px solid #1d5cb5;
+  color: #1d5cb5;
+  padding: .3rem 1rem;
+  transition: background-color .1s, color .1s;
+  cursor: pointer;
+}
+
+.Button:hover {
+  color: white;
+  background-color: #1d5cb5;
+}
+
+.Input {
+  border: 1px solid #111;
+  padding: .5rem;
+}

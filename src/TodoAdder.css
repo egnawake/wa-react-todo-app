@@ -1,0 +1,10 @@
+.TodoAdder {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.Input {
+  width: 100%;
+  margin-right: 0.8rem;
+}
